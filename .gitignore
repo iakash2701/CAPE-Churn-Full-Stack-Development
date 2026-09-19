@@ -1,0 +1,17 @@
+# Node / Next.js
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Models & Data cache (keep datasets optional or tracked)
+*.joblib
+*.log
+.DS_Store

@@ -1,0 +1,125 @@
+{
+  "global_importance": [
+    {
+      "feature": "Contract_Two year",
+      "importance": 0.9840999841690063
+    },
+    {
+      "feature": "tenure",
+      "importance": 0.7706000208854675
+    },
+    {
+      "feature": "Contract_One year",
+      "importance": 0.49570000171661377
+    },
+    {
+      "feature": "MonthlyCharges",
+      "importance": 0.4544999897480011
+    },
+    {
+      "feature": "InternetService_Fiber optic",
+      "importance": 0.3968000113964081
+    },
+    {
+      "feature": "TechSupport_Yes",
+      "importance": 0.211899995803833
+    },
+    {
+      "feature": "PaymentMethod_Electronic check",
+      "importance": 0.2101999968290329
+    },
+    {
+      "feature": "TotalCharges",
+      "importance": 0.14910000562667847
+    },
+    {
+      "feature": "OnlineSecurity_Yes",
+      "importance": 0.13850000500679016
+    },
+    {
+      "feature": "Partner_Yes",
+      "importance": 0.04820000007748604
+    },
+    {
+      "feature": "PaperlessBilling_Yes",
+      "importance": 0.03970000147819519
+    },
+    {
+      "feature": "MultipleLines_Yes",
+      "importance": 0.03500000014901161
+    },
+    {
+      "feature": "Dependents_Yes",
+      "importance": 0.03400000184774399
+    },
+    {
+      "feature": "gender_Male",
+      "importance": 0.033900000154972076
+    },
+    {
+      "feature": "StreamingTV_Yes",
+      "importance": 0.032499998807907104
+    },
+    {
+      "feature": "PaymentMethod_Credit card (automatic)",
+      "importance": 0.028999999165534973
+    },
+    {
+      "feature": "InternetService_No",
+      "importance": 0.027699999511241913
+    },
+    {
+      "feature": "PaymentMethod_Mailed check",
+      "importance": 0.023099999874830246
+    },
+    {
+      "feature": "PhoneService_Yes",
+      "importance": 0.023000000044703484
+    },
+    {
+      "feature": "OnlineBackup_Yes",
+      "importance": 0.022099999710917473
+    },
+    {
+      "feature": "DeviceProtection_Yes",
+      "importance": 0.021400000900030136
+    },
+    {
+      "feature": "StreamingMovies_Yes",
+      "importance": 0.017100000753998756
+    },
+    {
+      "feature": "SeniorCitizen_1",
+      "importance": 0.015300000086426735
+    },
+    {
+      "feature": "OnlineSecurity_No internet service",
+      "importance": 0.010300000198185444
+    },
+    {
+      "feature": "MultipleLines_No phone service",
+      "importance": 0.004600000102072954
+    },
+    {
+      "feature": "OnlineBackup_No internet service",
+      "importance": 0.001500000013038516
+    },
+    {
+      "feature": "DeviceProtection_No internet service",
+      "importance": 0.0
+    },
+    {
+      "feature": "TechSupport_No internet service",
+      "importance": 0.0
+    },
+    {
+      "feature": "StreamingTV_No internet service",
+      "importance": 0.0
+    },
+    {
+      "feature": "StreamingMovies_No internet service",
+      "importance": 0.0
+    }
+  ],
+  "base_value": 0.605202853679657
+}
