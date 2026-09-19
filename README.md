@@ -117,3 +117,4 @@ npm run dev
 ## ⚠️ 7. Research Limitations
 1. Retention recommendations are **model-informed suggestions**, not causally proven intervention outcomes.
 2. Results depend on public dataset features and require external validation before deployment in live production.
+
